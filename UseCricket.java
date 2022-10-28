@@ -29,6 +29,7 @@ public class UseCricket {
 			}*/
 		}
 		System.out.println(d.getName());
+		System.out.println(d.getAge());
 	}
 	
 	}
